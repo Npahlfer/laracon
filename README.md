@@ -21,7 +21,7 @@ Mauritskade 63, 1092 AD Amsterdam
 - Drink in Amsterdam’s best bars
 - Visit the famous flower market
 
-## Costs
+## Costs (per person)
 
 ### Fly to
 600 - 1000 SEK
