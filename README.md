@@ -21,19 +21,25 @@ Mauritskade 63, 1092 AD Amsterdam
 - Drink in Amsterdam’s best bars
 - Visit the famous flower market
 
-## Costs (per person)
+## Costs
 
-### Fly to
-600 - 1000 SEK
+### Detail
 
-### Fly from
-600 - 1000 SEK
+#### Fly to & from
+1 200 - 2 400 SEK (per person) 
+(With [Norwegian](http://www.norwegian.com/se/flyg/valj-flyvning/?D_City=ARN&A_City=AMS&TripType=2&D_Day=24&D_Month=201508&R_Day=27&R_Month=201508&AdultCount=1&ChildCount=0&InfantCount=0))
 
-### Hotel 4 nights
-€ 560,00
+#### Hotel 3 nights
+1 240 * 3 SEK (per double room)
+([Amsterdam Tropen Hotel](http://www.amsterdamtropenhotel.com) is the [Official Laracon Hotel](https://laraconeu.paydro.net/register/index/laracon-eu-2015))
 
-### Ticket
-€ 399,00
+#### Ticket
+3 677 SEK (per person)
+([Laracon Tickets](https://laraconeu.paydro.net/register/index/laracon-eu-2015))
 
-### Workshops
-€ 239,00 / st
+#### Workshops
+2 202 SEK / st (per person)
+([Laracon Workshops](https://laraconeu.paydro.net/register/index/laracon-eu-2015))
+
+### Total
+ca. 8 600 - 9 800 SEK / person
