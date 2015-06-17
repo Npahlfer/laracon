@@ -1,5 +1,6 @@
 # Laracon Amsterdam Trip
 [Laracon](http://laracon.eu/2015/)
+24-27 August 2015
 
 ## Where it is
 
